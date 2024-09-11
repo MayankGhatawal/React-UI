@@ -7,8 +7,8 @@ export default {
       colors: {
         bgBlack: "#282C31",
         lightBlue: "#575758",
-        darkBlue: "#368186",
-        lightRed: "#F4CBB2",
+        darkBlue: "#363C43",
+        lightRed: "#3D4043",
         lightGrey: "#ABABAB",
         darkGrey: "#2E3136",
         linkedin: "#0077b5",
