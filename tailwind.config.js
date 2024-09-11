@@ -9,7 +9,7 @@ export default {
         lightBlue: "#575758",
         darkBlue: "#363C43",
         lightRed: "#3D4043",
-        lightGrey: "#ABABAB",
+        lightGrey: "#171717",
         darkGrey: "#2E3136",
         linkedin: "#0077b5",
         twitter: "#1da1f2",
